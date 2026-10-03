@@ -1,6 +1,6 @@
 cask "ns2bridge" do
-  version "1.1.0"
-  sha256 "1d5a689cfc77d1970cd4060aeba59671732fbf6f23fc4a47f0970b91803c55ee"
+  version "1.1.1"
+  sha256 "e38ea156c9b472a924b281af7c16b35cfdb99aee0bd3bb135be2585c17614adf"
 
   url "https://github.com/info-moed/NS2Bridge/releases/download/v#{version}/NS2Bridge-#{version}-macOS.zip"
   name "NS2 Bridge"
